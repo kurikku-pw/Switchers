@@ -3,6 +3,6 @@
 
 switcherv1.zip - Gatari Style Switcher
 
-switcherv2.zip - Ripple Style Swithcer
+switcherv2.zip - Ripple Style Switcher
 
 switcherv3.zip - Kurikku OSU! Patcher
